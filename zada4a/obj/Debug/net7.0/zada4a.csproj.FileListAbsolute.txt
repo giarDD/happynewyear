@@ -1,0 +1,14 @@
+C:\Users\Максим\Desktop\end1\zada4a\bin\Debug\net7.0\zada4a.exe
+C:\Users\Максим\Desktop\end1\zada4a\bin\Debug\net7.0\zada4a.deps.json
+C:\Users\Максим\Desktop\end1\zada4a\bin\Debug\net7.0\zada4a.runtimeconfig.json
+C:\Users\Максим\Desktop\end1\zada4a\bin\Debug\net7.0\zada4a.dll
+C:\Users\Максим\Desktop\end1\zada4a\bin\Debug\net7.0\zada4a.pdb
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.AssemblyInfo.cs
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.dll
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\refint\zada4a.dll
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.pdb
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\zada4a.genruntimeconfig.cache
+C:\Users\Максим\Desktop\end1\zada4a\obj\Debug\net7.0\ref\zada4a.dll
